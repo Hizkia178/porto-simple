@@ -60,7 +60,7 @@ export function HeroSection() {
             aria-label="Home HeroSection"
             className="min-h-screen flex items-center justify-center px-6 py-10 bg-white"
         >
-            <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+            <div className="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
                 <div className="order-2 lg:order-1 flex justify-center lg:justify-start">
                     <div className="relative">
                         <Carousel
